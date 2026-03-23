@@ -19,4 +19,4 @@ LeadGenius represents an innovative and powerful asynchronous bot specifically c
    ```bash
 
 
-  git clone https://github.com/yourusername/LeadGenius-Bot.git
+  git clone https://github.com/asadx78/LeadGenius-Bot.git
